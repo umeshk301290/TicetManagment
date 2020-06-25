@@ -1,6 +1,6 @@
 938601 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Starting TicketManagementSystemApplication on umeshkumar001 with PID 9352 (D:\TicketManagementSystem\target\classes started by umeshkumar01 in D:\TicketManagementSystem)
 938601 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - The following profiles are active: dev
-939301 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+939301 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring DatA JPA repositories in DEFERRED mode.
 939313 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 12ms. Found 2 JPA repository interfaces.
 939463 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
 939470 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
