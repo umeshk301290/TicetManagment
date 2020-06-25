@@ -23,7 +23,7 @@
 939911 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 939912 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 939951 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-940051 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+940051 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 940081 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 940084 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.525 seconds (JVM running for 940.537)
 940086 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -62,7 +62,7 @@
 11:09:55.923 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:09:55.925 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:09:55.935 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:09:56.036 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:09:56.036 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:09:56.065 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:09:56.068 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.643 seconds (JVM running for 1096.014)
 11:09:56.070 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -100,7 +100,7 @@
 11:11:43.944 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:11:43.946 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:11:43.953 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:11:44.027 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:11:44.027 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:11:44.047 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:11:44.049 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.466 seconds (JVM running for 1203.996)
 11:11:44.050 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -133,7 +133,7 @@
 11:11:52.458 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:11:52.460 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:11:52.467 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:11:52.532 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:11:52.532 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:11:52.553 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:11:52.556 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.363 seconds (JVM running for 1212.502)
 11:11:52.557 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -144,7 +144,7 @@
 11:11:55.661 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Starting TicketManagementSystemApplication on umeshkumar001 with PID 9352 (D:\TicketManagementSystem\target\classes started by umeshkumar01 in D:\TicketManagementSystem)
 11:11:55.661 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - The following profiles are active: dev
 11:11:56.339 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Bootstrapping Spring Data JPA repositories in DEFERRED mode.
-11:11:56.351 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning in 11ms. Found 2 JPA repository interfaces.
+11:11:56.351 [restartedMain] INFO  o.s.d.r.c.RepositoryConfigurationDelegate - Finished Spring Data repository scanning n 11ms. Found 2 JPA repository interfaces.
 11:11:56.470 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
 11:11:56.470 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
 11:11:56.470 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.35]
@@ -166,7 +166,7 @@
 11:11:56.781 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:11:56.782 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:11:56.790 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:11:56.845 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:11:56.845 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:11:56.866 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:11:56.869 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.243 seconds (JVM running for 1216.815)
 11:11:56.870 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -199,7 +199,7 @@
 11:12:06.085 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:12:06.091 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:12:06.097 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:12:06.174 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:12:06.174 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:12:06.193 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:12:06.195 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.233 seconds (JVM running for 1226.142)
 11:12:06.198 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -232,7 +232,7 @@
 11:12:10.149 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:12:10.149 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:12:10.155 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:12:10.205 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:12:10.205 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:12:10.222 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:12:10.224 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.031 seconds (JVM running for 1230.17)
 11:12:10.225 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -265,7 +265,7 @@
 11:12:16.434 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:12:16.435 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:12:16.442 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:12:16.500 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:12:16.500 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:12:16.521 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:12:16.524 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.254 seconds (JVM running for 1236.47)
 11:12:16.525 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -298,7 +298,7 @@
 11:12:23.763 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:12:23.764 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:12:23.774 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:12:23.830 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:12:23.830 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:12:23.847 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:12:23.850 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.298 seconds (JVM running for 1243.796)
 11:12:23.851 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -331,7 +331,7 @@
 11:12:34.409 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:12:34.412 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:12:34.419 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:12:34.465 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:12:34.465 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:12:34.485 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:12:34.487 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.564 seconds (JVM running for 1254.433)
 11:12:34.488 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -1390,7 +1390,7 @@ Caused by: org.h2.jdbc.JdbcSQLException: Wrong user name or password [28000-193]
 11:17:00.355 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:17:00.378 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:17:00.394 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:17:00.651 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories�
+11:17:00.651 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
 11:17:00.828 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:17:00.845 [main] INFO  c.t.m.T.TicketManagementSystemApplicationTests - Started TicketManagementSystemApplicationTests in 7.563 seconds (JVM running for 8.834)
 11:17:01.062 [SpringContextShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
@@ -1424,7 +1424,7 @@ Caused by: org.h2.jdbc.JdbcSQLException: Wrong user name or password [28000-193]
 11:17:30.381 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:17:30.404 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:17:30.417 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:17:30.640 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories�
+11:17:30.640 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
 11:17:30.829 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:17:30.847 [main] INFO  c.t.m.T.TicketManagementSystemApplicationTests - Started TicketManagementSystemApplicationTests in 7.293 seconds (JVM running for 8.527)
 11:17:31.103 [SpringContextShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
@@ -2044,7 +2044,7 @@ Caused by: org.h2.jdbc.JdbcSQLException: Wrong user name or password [28000-193]
 11:19:00.875 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:19:00.899 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:19:00.917 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:19:01.181 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories�
+11:19:01.181 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
 11:19:01.354 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:19:01.372 [main] INFO  c.t.m.T.TicketManagementSystemApplicationTests - Started TicketManagementSystemApplicationTests in 7.594 seconds (JVM running for 8.871)
 11:19:01.633 [SpringContextShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
@@ -2083,7 +2083,7 @@ Caused by: org.h2.jdbc.JdbcSQLException: Wrong user name or password [28000-193]
 11:19:17.737 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:19:17.798 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:19:17.823 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:19:18.115 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:19:18.115 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:19:18.313 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:19:18.328 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 9.775 seconds (JVM running for 10.836)
 11:19:46.498 [http-nio-8080-exec-10] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
@@ -2121,7 +2121,7 @@ Caused by: org.h2.jdbc.JdbcSQLException: Wrong user name or password [28000-193]
 11:21:33.977 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:21:33.980 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:21:33.990 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:21:34.085 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:21:34.085 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:21:34.115 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:21:34.123 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 3.347 seconds (JVM running for 146.632)
 11:21:34.130 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
@@ -2278,7 +2278,7 @@ Unconditional classes:
 11:21:51.946 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 11:21:51.983 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 11:21:52.015 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-11:21:52.366 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+11:21:52.366 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 11:21:52.601 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 11:21:52.614 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 9.998 seconds (JVM running for 11.036)
 11:22:00.950 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
@@ -2289,7 +2289,7 @@ Unconditional classes:
 11:27:00.187 [http-nio-8080-exec-1] INFO  c.t.m.T.c.UserAccountController - login method called. Checking whether user exists or not
 11:27:08.141 [http-nio-8080-exec-6] INFO  c.t.m.T.c.UserAccountController - login method called. Checking whether user exists or not
 11:29:42.852 [http-nio-8080-exec-4] INFO  c.t.m.T.c.UserAccountController - signup method called. Checking for already existing user
-14:46:10.491 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m22s4ms12µs500ns).
+14:46:10.491 [HikariPool-1 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m22s4ms12Âµs500ns).
 14:55:26.596 [Thread-329] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
 14:55:26.606 [Thread-329] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 14:55:26.610 [Thread-329] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
@@ -2322,7 +2322,7 @@ Unconditional classes:
 14:55:30.559 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:55:30.560 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:55:30.567 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:55:30.669 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:55:30.669 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:55:30.698 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:55:30.705 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 3.777 seconds (JVM running for 12829.184)
 14:55:30.708 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -2358,7 +2358,7 @@ Unconditional classes:
 14:56:07.742 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:56:07.746 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:56:07.755 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:56:07.923 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:56:07.923 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:56:07.963 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:56:07.985 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 3.126 seconds (JVM running for 12866.463)
 14:56:07.989 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -2394,7 +2394,7 @@ Unconditional classes:
 14:56:21.622 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:56:21.624 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:56:21.630 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:56:21.729 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:56:21.729 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:56:21.758 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:56:21.765 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.734 seconds (JVM running for 12880.243)
 14:56:21.767 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -2430,7 +2430,7 @@ Unconditional classes:
 14:56:38.088 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:56:38.089 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:56:38.100 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:56:38.244 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:56:38.244 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:56:38.267 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:56:38.274 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.352 seconds (JVM running for 12896.753)
 14:56:38.275 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -2466,7 +2466,7 @@ Unconditional classes:
 14:57:32.255 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:57:32.256 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:57:32.261 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:57:32.404 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:57:32.404 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:57:32.428 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:57:32.434 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.91 seconds (JVM running for 12950.913)
 14:57:32.436 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -2502,7 +2502,7 @@ Unconditional classes:
 14:57:46.395 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:57:46.396 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:57:46.413 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:57:46.513 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:57:46.513 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:57:46.540 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:57:46.547 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.044 seconds (JVM running for 12965.025)
 14:57:46.549 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -2845,7 +2845,7 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No b
 15:02:27.440 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:02:27.490 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:02:27.516 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:02:27.926 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories�
+15:02:27.926 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
 15:02:28.263 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:02:28.285 [main] INFO  c.t.m.T.TicketManagementSystemApplicationTests - Started TicketManagementSystemApplicationTests in 12.74 seconds (JVM running for 14.745)
 15:02:28.860 [SpringContextShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
@@ -2884,7 +2884,7 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No b
 15:03:53.652 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:03:53.797 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:03:53.823 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:03:54.563 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:03:54.563 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:03:54.944 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:03:54.962 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 16.794 seconds (JVM running for 18.052)
 15:05:39.312 [http-nio-8080-exec-9] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
@@ -2932,7 +2932,7 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No b
 15:10:13.677 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:10:13.679 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:10:13.712 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:10:13.853 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:10:13.853 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:10:13.884 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:10:13.891 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 3.657 seconds (JVM running for 396.984)
 15:10:13.894 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -2968,7 +2968,7 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No b
 15:10:45.546 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:10:45.547 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:10:45.553 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:10:45.699 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:10:45.699 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:10:45.745 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:10:45.753 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 3.675 seconds (JVM running for 428.845)
 15:10:45.761 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
@@ -3062,7 +3062,7 @@ Unconditional classes:
 15:11:11.198 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:11:11.268 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:11:11.297 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:11:11.723 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:11:11.723 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:11:12.080 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:11:12.100 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 12.741 seconds (JVM running for 13.995)
 15:11:30.705 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
@@ -3114,7 +3114,7 @@ Unconditional classes:
 15:13:10.180 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:13:10.182 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:13:10.200 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:13:10.342 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:13:10.342 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:13:10.380 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:13:10.390 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 4.148 seconds (JVM running for 132.286)
 15:13:10.399 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3161,7 +3161,7 @@ Unconditional classes:
 15:15:16.850 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:15:16.851 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:15:16.863 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:15:17.068 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:15:17.068 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:15:17.108 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:15:17.118 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 4.905 seconds (JVM running for 259.013)
 15:15:17.121 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3213,7 +3213,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 15:18:09.268 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:18:09.269 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:18:09.281 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:18:09.407 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:18:09.407 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:18:09.445 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:18:09.454 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.621 seconds (JVM running for 431.349)
 15:18:09.456 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3258,7 +3258,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 15:20:08.691 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:20:08.696 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:20:08.708 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:20:08.828 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:20:08.828 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:20:08.869 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:20:08.881 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.621 seconds (JVM running for 550.776)
 15:20:08.884 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3374,7 +3374,7 @@ org.springframework.expression.spel.SpelEvaluationException: EL1008E: Property o
 15:20:35.464 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:20:35.465 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:20:35.488 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:20:35.641 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:20:35.641 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:20:35.685 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:20:35.716 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.485 seconds (JVM running for 577.618)
 15:20:35.719 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3410,7 +3410,7 @@ org.springframework.expression.spel.SpelEvaluationException: EL1008E: Property o
 15:20:51.758 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:20:51.760 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:20:51.769 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:20:51.928 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:20:51.928 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:20:51.954 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:20:51.970 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.514 seconds (JVM running for 593.87)
 15:20:51.973 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3570,7 +3570,7 @@ java.lang.ClassCastException: org.springframework.http.ResponseEntity cannot be 
 15:25:14.423 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:25:14.426 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:25:14.439 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:25:14.536 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:25:14.536 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:25:14.570 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:25:14.576 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.409 seconds (JVM running for 856.503)
 15:25:14.578 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3606,7 +3606,7 @@ java.lang.ClassCastException: org.springframework.http.ResponseEntity cannot be 
 15:25:55.392 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:25:55.393 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:25:55.405 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:25:55.477 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:25:55.477 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:25:55.497 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:25:55.503 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.25 seconds (JVM running for 897.431)
 15:25:55.505 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3653,7 +3653,7 @@ java.lang.ClassCastException: org.springframework.http.ResponseEntity cannot be 
 15:27:48.374 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:27:48.375 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:27:48.381 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:27:48.456 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:27:48.456 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:27:48.480 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:27:48.488 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.238 seconds (JVM running for 1010.415)
 15:27:48.490 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3759,7 +3759,7 @@ java.lang.IllegalArgumentException: Null key returned for cache operation (maybe
 15:28:26.792 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:28:26.796 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:28:26.810 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:28:26.902 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:28:26.902 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:28:26.927 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:28:26.934 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.056 seconds (JVM running for 1048.862)
 15:28:26.936 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3795,7 +3795,7 @@ java.lang.IllegalArgumentException: Null key returned for cache operation (maybe
 15:28:45.344 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:28:45.345 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:28:45.365 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:28:45.445 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:28:45.445 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:28:45.469 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:28:45.476 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.322 seconds (JVM running for 1067.404)
 15:28:45.478 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3831,7 +3831,7 @@ java.lang.IllegalArgumentException: Null key returned for cache operation (maybe
 15:33:59.010 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:33:59.011 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:33:59.020 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:33:59.105 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:33:59.105 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:33:59.131 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:33:59.137 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.103 seconds (JVM running for 1381.066)
 15:33:59.138 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3874,7 +3874,7 @@ java.lang.IllegalArgumentException: Null key returned for cache operation (maybe
 15:37:42.915 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:37:42.916 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:37:42.922 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:37:42.978 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:37:42.978 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:37:42.998 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:37:43.004 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 1.591 seconds (JVM running for 1604.934)
 15:37:43.006 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -3910,7 +3910,7 @@ java.lang.IllegalArgumentException: Null key returned for cache operation (maybe
 15:38:36.815 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:38:36.818 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:38:36.829 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:38:36.930 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:38:36.930 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:38:36.955 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:38:36.961 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 2.474 seconds (JVM running for 1658.89)
 15:38:36.963 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -4103,7 +4103,7 @@ Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No b
 15:40:36.106 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:40:36.137 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:40:36.157 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:40:36.443 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:40:36.443 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:40:36.645 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:40:36.661 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 9.999 seconds (JVM running for 11.228)
 15:42:37.771 [http-nio-8080-exec-10] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
@@ -4603,7 +4603,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 15:43:33.354 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:43:33.428 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:43:33.453 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:43:33.824 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:43:33.824 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:43:34.000 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:43:34.018 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 9.915 seconds (JVM running for 10.855)
 15:43:46.698 [http-nio-8080-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
@@ -4677,7 +4677,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 15:49:58.182 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:49:58.185 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:49:58.192 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:49:58.306 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:49:58.306 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:49:58.339 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:49:58.347 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 3.449 seconds (JVM running for 395.174)
 15:49:58.349 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -4740,7 +4740,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 15:55:28.134 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 15:55:28.137 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 15:55:28.150 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-15:55:28.248 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+15:55:28.248 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 15:55:28.282 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 15:55:28.290 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 3.023 seconds (JVM running for 725.116)
 15:55:28.292 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -4768,9 +4768,9 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 15:58:06.484 [http-nio-8080-exec-5] INFO  c.t.m.T.r.ServiceTicketController - fetch a ticket operation called for ticket id 50 
 15:58:07.280 [http-nio-8080-exec-7] INFO  c.t.m.T.r.ServiceTicketController - fetch a ticket operation called for ticket id 50 
 15:58:08.082 [http-nio-8080-exec-8] INFO  c.t.m.T.r.ServiceTicketController - fetch a ticket operation called for ticket id 50 
-18:38:00.393 [HikariPool-3 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=3m2s345ms54µs300ns).
-21:47:00.271 [HikariPool-3 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=3h29s785ms993µs400ns).
-10:12:47.683 [HikariPool-3 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=12h25m26s608ms370µs400ns).
+18:38:00.393 [HikariPool-3 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=3m2s345ms54Âµs300ns).
+21:47:00.271 [HikariPool-3 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=3h29s785ms993Âµs400ns).
+10:12:47.683 [HikariPool-3 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-3 - Thread starvation or clock leap detected (housekeeper delta=12h25m26s608ms370Âµs400ns).
 10:18:22.028 [http-nio-8080-exec-2] INFO  c.t.m.T.c.UserAccountController - login method called. Checking whether user exists or not
 10:18:46.240 [http-nio-8080-exec-6] INFO  c.t.m.T.c.UserAccountController - login method called. Checking whether user exists or not
 13:59:56.209 [main] INFO  o.s.b.t.c.SpringBootTestContextBootstrapper - Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.ticket.managment.TicketManagementSystem.TicketManagementSystemApplicationTests], using SpringBootContextLoader
@@ -4800,7 +4800,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 14:00:06.864 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:00:06.895 [main] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:00:06.914 [main] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:00:07.173 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories�
+14:00:07.173 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
 14:00:07.398 [main] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:00:07.413 [main] INFO  c.t.m.T.TicketManagementSystemApplicationTests - Started TicketManagementSystemApplicationTests in 10.759 seconds (JVM running for 12.28)
 14:00:07.654 [SpringContextShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
@@ -4839,7 +4839,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 14:00:27.444 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:00:27.477 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:00:27.500 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:00:27.791 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:00:27.791 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:00:27.977 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:00:27.992 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 9.901 seconds (JVM running for 11.219)
 14:20:41.420 [Thread-337] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
@@ -4874,7 +4874,7 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 14:20:45.769 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Context refreshed
 14:20:45.770 [restartedMain] INFO  s.d.s.w.p.DocumentationPluginsBootstrapper - Found 1 custom documentation plugin(s)
 14:20:45.787 [restartedMain] INFO  s.d.s.w.s.ApiListingReferenceScanner - Scanning for api listing references
-14:20:45.881 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositories…
+14:20:45.881 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Triggering deferred initialization of Spring Data repositoriesâ€¦
 14:20:45.927 [restartedMain] INFO  o.s.d.r.c.DeferredRepositoryInitializationListener - Spring Data repositories initialized!
 14:20:45.944 [restartedMain] INFO  c.t.m.T.TicketManagementSystemApplication - Started TicketManagementSystemApplication in 4.241 seconds (JVM running for 1229.174)
 14:20:45.947 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation unchanged
@@ -4972,13 +4972,13 @@ insert into ticket (create_date, department, details, userid, id) values (?, ?, 
 15:44:20.371 [http-nio-8080-exec-2] INFO  c.t.m.T.r.ServiceTicketController - fetch a ticket operation called for ticket id 81 
 15:44:33.567 [http-nio-8080-exec-10] INFO  c.t.m.T.r.ServiceTicketController - fetch a ticket operation called for ticket id 82 
 15:44:37.365 [http-nio-8080-exec-10] WARN  o.s.w.s.m.m.a.ExceptionHandlerExceptionResolver - Resolved [com.ticket.managment.TicketManagementSystem.service.ServiceTicketException]
-17:27:02.509 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m46s848ms582µs600ns).
-21:37:30.640 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3h27s688ms752µs700ns).
-10:02:40.473 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=12h25m18s655ms613µs600ns).
-12:06:07.784 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m58s1ms126µs100ns).
-14:41:13.155 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=36m34s838ms817µs500ns).
-21:19:43.343 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3h30s156ms968µs500ns).
-10:57:27.113 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=13h37m54s805ms155µs700ns).
+17:27:02.509 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=7m46s848ms582Âµs600ns).
+21:37:30.640 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3h27s688ms752Âµs700ns).
+10:02:40.473 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=12h25m18s655ms613Âµs600ns).
+12:06:07.784 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3m58s1ms126Âµs100ns).
+14:41:13.155 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=36m34s838ms817Âµs500ns).
+21:19:43.343 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=3h30s156ms968Âµs500ns).
+10:57:27.113 [HikariPool-2 housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Thread starvation or clock leap detected (housekeeper delta=13h37m54s805ms155Âµs700ns).
 11:06:23.282 [Thread-341] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
 11:06:23.297 [Thread-341] INFO  o.s.s.c.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
 11:06:23.297 [Thread-341] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Shutdown initiated...
